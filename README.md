@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shane Lim
+# 👋 Hi, I'm Shane
 
 I'm a data-driven problem solver passionate about using analytics, automation, and AI to tackle real-world challenges. Currently pursuing a Bachelor’s degree in Business Analytics at Nanyang Technological University (NTU), I've had the opportunity to apply my skills across industries—ranging from finance and logistics to entertainment and e-commerce.
 
